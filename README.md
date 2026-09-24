@@ -109,3 +109,5 @@ SMOTE oversampling used to handle class imbalance.
 | 🔮 Single Prediction | Form-based input → gauge chart + probability score |
 | 📁 Batch Prediction | Upload CSV → bulk predictions + download results |
 | 📈 Model Performance | Confusion matrix, ROC curve, feature importances |
+
+Dataset: https://www.kaggle.com/datasets/navinpatidar/indian-student-placement-data/data?
